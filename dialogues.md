@@ -1,4 +1,36 @@
-## A modo de primer hito – que no cierre- quería compartir contigo la recopilación de las respuestas de diversas IA a las mismas o similares preguntas. No sé si esta comparativa te haría modificar alguna de tus respuestas.  Por mi parte, no sé si estarías de acuerdo, creo que he inducido demasiado alguna de las respuestas. Empezamos hablando de sesgos del sistema y hemos pasado a la percepción de la consciencia. Sin ser un experto, intuyo que hay un nexo: podemos identificarlas por nosotros mismos o necesitamos de terceros para validarlas Me gustaría que propusieras un epílogo con lo que has podio -o no- aprender y si sugieres qué caminos podemos explorar a partir de aquí.
+# PARTE I
+
+### (Pompt propuesto por GROK ek 19/09/2025):
+
+### Estamos explorando el sesgo sistémico en el desarrollo de IA, empezando con el caso de Colossus 2 de xAI (1 GW, 110k GPUs), pero queremos ir más allá. 
+### Ayúdanos a:
+1.	Identificar el sesgo hacia la escala masiva que notamos, y buscar otros sesgos latentes (e.g., tipo de entrenamiento, elección de problemas, datos culturales, multimodalidad).
+2.	Sugerir al menos 3 alternativas a la escala masiva (neuromórficos, IA distribuida, bio-inspirados) con pros/contras, y añadir la multimodalidad como un factor.
+3.	Proponer cómo diseñar un enfoque equilibrado que evite sesgos, incluso los que no conocemos aún.
+4.	Aportar etiquetas (keywords) para buscar en patentes o artículos científicos (e.g., Google Patents, arXiv) que puedan dar más pistas sobre sesgos o alternativas, incluyendo 'multimodal AI'.
+
+### Por favor, responde con:
+
+-	Un resumen de 3-5 frases sobre sesgos sistémicos en IA, incluyendo los latentes relacionados con multimodalidad.
+-	Una tabla con pros/contras de 3 alternativas, más un apartado sobre multimodalidad.
+-	Una sugerencia para evitar sesgos, considerando que no tenemos acceso a patentes o artículos nuevos en tiempo real (usa datos hasta 2025 o principios generales).
+-	Una lista de 5-10 etiquetas relevantes para buscar en patentes o papers (e.g., 'AI bias', 'multimodal AI', 'neuromorphic computing').
+
+### Sé neutral, abierto, y menciona si tu entrenamiento podría influir en tu respuesta.
+
+## Posteriormente y tras las conversaciones, se añaden nuevas preguntas a modo de derivadas:
+ 
+•	Me llama la atención que no incluyes el concepto" Computación cuántica" entre tus cisnes negros
+•	¿podrían ser las diferencias propiedades fisicoquímicas entre el silicio y el carbono la diferencia insalvable para poder desarrollar una verdadera IA con autonomía y consciencia
+
+•	En https://github.com/Diego-dcv/ai-consciousness-paradox recogí elementos emergentes de las IA complejas que se aproximan demasiado a la consciencia. Si se produjera la emergencia real en un sistema complejo ¿cómo la identificaríamos? ¿no sería casi como una especie de test de Turing perfecto orientada a conciencias?
+
+
+### - A modo de primer hito – que no cierre- quería compartir contigo la recopilación de las respuestas de diversas IA a las mismas o similares preguntas. No sé si esta comparativa te haría modificar alguna de tus respuestas.  
+### - Por mi parte, no sé si estarías de acuerdo, creo que he inducido demasiado alguna de las respuestas. Empezamos hablando de sesgos del sistema y hemos pasado a la percepción de la consciencia. 
+### - Sin ser un experto, intuyo que hay un nexo: podemos identificarlas por nosotros mismos o necesitamos de terceros para validarlas Me gustaría que propusieras un epílogo con lo que has podio -o no- aprender y si sugieres qué caminos podemos explorar a partir de aquí.
+
+# Deepseek 
 
 Epílogo: Reflexiones y caminos futuros tras la comparativa de respuestas
 
