@@ -48,6 +48,7 @@
 5.	**Sesgo de eficiencia fría**: Se optimizan métricas técnicas (precisión, velocidad) sobre valores humanos (equidad, privacidad, empatía).
 
 
+---
 # PARTE II
 **- A modo de primer hito – que no cierre- quería compartir contigo la recopilación de las respuestas de diversas IA a las mismas o similares preguntas. No sé si esta comparativa te haría modificar alguna de tus respuestas.**  
 **- Por mi parte, no sé si estarías de acuerdo, creo que he inducido demasiado alguna de las respuestas. Empezamos hablando de sesgos del sistema y hemos pasado a la percepción de la consciencia.** 
