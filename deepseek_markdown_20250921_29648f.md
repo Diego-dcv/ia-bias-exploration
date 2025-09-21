@@ -1,0 +1,5 @@
+| Alternativa                   | Pros                                                                 | Contras                                                              |
+|-------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Computación neuromórfica**  | Bajo consumo energético, procesamiento en tiempo real, paralelismo masivo. | Madurez tecnológica limitada, difícil programación, coste inicial alto. |
+| **LA distribuida y federada** | Privacidad preservada, diversidad de datos, escalabilidad descentralizada. | Latencia en comunicación, complejidad de coordinación, riesgos de seguridad. |
+| **Modelos bio-inspirados**    | Adaptabilidad, robustez a entornos dinámicos, eficiencia computacional. | Complejidad de diseño, dificultad para validar, posible impredecibilidad. |
