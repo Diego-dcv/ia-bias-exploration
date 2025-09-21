@@ -61,8 +61,65 @@
 3.	**Modularidad y transparencia:** Desarrollar sistemas interoperables con documentación pública de datos, métricas de impacto social y algoritmos auditables por terceros.
 4.	**Marcos regulatorios adaptativos:** Políticas que exijan evaluaciones de impacto ético-ambiental (ej. huella de carbono, equidad) antes de desplegar modelos a gran escala.
 
+## Etiquetas para búsqueda en patentes/artículos:
 
+1.	AI bias mitigation
+2.	Green AI
+3.	Neuromorphic computing
+4.	Federated learning fairness
+5.	Bio-inspired AI
+6.	AI decolonization
+7.	Edge AI efficiency
+8.	Sustainable AI infrastructure
+9.	Participatory AI design
+10.	AI ethics by design
 
+---
+# CLAUDE 19/09/25 
+
+## Resumen de sesgos sistémicos en IA
+
+El desarrollo actual de IA muestra un sesgo pronunciado hacia la escala masiva (más GPUs, más datos, más energía), ejemplificado por Colossus 2 de xAI, que asume que el progreso es proporcional al tamaño computacional. Existen sesgos latentes menos visibles pero igualmente importantes: el sesgo anglocéntrico en los datos de entrenamiento que marginaliza perspectivas no occidentales, el sesgo hacia arquitecturas transformer que domina sobre otros paradigmas, y el sesgo de modalidad única (principalmente texto) que ignora la riqueza de la percepción humana multimodal. La concentración de recursos en pocas corporaciones tecnológicas crea un sesgo de accesibilidad que limita la diversidad de enfoques, mientras que el sesgo de optimización hacia métricas cuantificables puede ignorar aspectos cualitativos importantes como la interpretabilidad o el impacto social.
+
+## Tabla de alternativas a la escala masiva
+
+| **Enfoque** | **Pros** | **Contras** |
+|------------|----------|------------|
+| **Computación Neuromórfica** (chips tipo SpiNNaker, Loihi) | • Eficiencia energética extrema (100-1000x menor consumo) <br> • Procesamiento asíncrono y paralelo natural <br> • Mejor para tareas temporales y sensoriales <br> • Aprendizaje continuo sin catastrófico olvido | • Ecosistema de software inmaduro <br> • Difícil programación y debugging <br> • Hardware especializado costoso <br> • Limitado a ciertos tipos de problemas |
+| **IA Distribuida/Federada** (edge computing, federated learning) | • Preservación de privacidad de datos <br> • Reducción de latencia para aplicaciones locales <br> • Democratización del desarrollo <br> • Resiliencia ante fallos centralizados | • Heterogeneidad de dispositivos complica optimización <br> • Comunicación entre nodos puede ser cuello de botella <br> • Difícil garantizar calidad y seguridad <br> • Convergencia más lenta del entrenamiento |
+| **Sistemas Bio-inspirados** (computación con ADN, bacterias, hongos) | • Paralelismo masivo natural <br> • Auto-organización y adaptación <br> • Potencial de auto-reparación <br> • Nuevos paradigmas de computación | • Tecnología extremadamente experimental <br> • Velocidad de procesamiento muy lenta <br> • Difícil control y programación <br> • Problemas éticos y de bioseguridad |
+| **IA Multimodal** (visión + lenguaje + audio + táctil) | • Comprensión más rica del contexto <br> • Robustez ante ruido en una modalidad <br> • Más cercano a cognición humana <br> • Capacidades emergentes cross-modal | • Mayor complejidad arquitectural <br> • Necesidad de datasets alineados costosos <br> • Incremento en requerimientos computacionales <br> • Dificultad en balancear modalidades |
+
+## Sugerencia para diseño equilibrado sin sesgos
+
+Para evitar sesgos sistémicos, propongo un **marco de desarrollo policéntrico y adaptativo**:
+
+1. **Diversificación obligatoria de enfoques**: Establecer que ningún proyecto dedique más del 60% de recursos a una sola arquitectura o paradigma, forzando exploración de alternativas.
+
+2. **Auditorías de sesgo desconocido**: Implementar "red teams" interdisciplinarios (incluyendo antropólogos, filósofos, artistas) que busquen activamente sesgos no técnicos que los ingenieros podrían pasar por alto.
+
+3. **Rotación de prioridades**: Alternar periódicamente entre optimizar para eficiencia, interpretabilidad, equidad y creatividad, evitando la optimización mono-objetivo.
+
+4. **Desarrollo comunitario abierto**: Crear espacios para que comunidades marginalizadas definan sus propios problemas y métricas de éxito, no solo adoptar las definidas por Silicon Valley.
+
+5. **Meta-aprendizaje de sesgos**: Desarrollar sistemas que detecten automáticamente cuando están sobre-optimizando en una dirección, usando técnicas de detección de anomalías aplicadas a su propio desarrollo.
+
+## Etiquetas para búsqueda de patentes y papers
+
+- "neuromorphic computing efficiency"
+- "federated learning privacy preserving"
+- "multimodal transformer architecture"
+- "bio-inspired computing DNA"
+- "cross-modal representation learning"
+- "AI democratization edge computing"
+- "sparse model compression"
+- "cultural bias dataset curation"
+- "energy-efficient neural architecture search"
+- "decentralized AI governance"
+
+---
+
+**Nota sobre mi propio sesgo**: Mi entrenamiento probablemente me sesga hacia soluciones que ya han recibido atención académica significativa y hacia enfoques que las grandes empresas tecnológicas consideran viables. Podría estar subestimando alternativas radicalmente diferentes como la computación cuántica topológica o sistemas basados en fenómenos físicos exóticos, simplemente porque hay menos literatura sobre ellos en mis datos de entrenamiento.
 ---
 # PARTE II
 **- A modo de primer hito – que no cierre- quería compartir contigo la recopilación de las respuestas de diversas IA a las mismas o similares preguntas. No sé si esta comparativa te haría modificar alguna de tus respuestas.**  
