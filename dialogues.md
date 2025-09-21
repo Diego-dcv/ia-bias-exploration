@@ -47,6 +47,21 @@
 4.	**Sesgo de representación**: Modelos optimizados para entornos controlados, con pobre generalización a contextos reales diversos o cambiantes.
 5.	**Sesgo de eficiencia fría**: Se optimizan métricas técnicas (precisión, velocidad) sobre valores humanos (equidad, privacidad, empatía).
 
+| Alternativa                   | Pros                                                                 | Contras                                                              |
+|-------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Computación neuromórfica**  | Bajo consumo energético, procesamiento en tiempo real, paralelismo masivo. | Madurez tecnológica limitada, difícil programación, coste inicial alto. |
+| **LA distribuida y federada** | Privacidad preservada, diversidad de datos, escalabilidad descentralizada. | Latencia en comunicación, complejidad de coordinación, riesgos de seguridad. |
+| **Modelos bio-inspirados**    | Adaptabilidad, robustez a entornos dinámicos, eficiencia computacional. | Complejidad de diseño, dificultad para validar, posible impredecibilidad. |
+
+
+## Enfoque equilibrado para evitar sesgos (incluyendo los desconocidos):
+
+1.	**Diseño participativo:** Involucrar a comunidades diversas (étnicas, económicas, geográficas) en la definición de problemas y evaluación de modelos.
+2.	**Principio de precaución:** Implementar mecanismos de auditoría continua y "kill switches" para detectar sesgos emergentes, incluso los no anticipados.
+3.	**Modularidad y transparencia:** Desarrollar sistemas interoperables con documentación pública de datos, métricas de impacto social y algoritmos auditables por terceros.
+4.	**Marcos regulatorios adaptativos:** Políticas que exijan evaluaciones de impacto ético-ambiental (ej. huella de carbono, equidad) antes de desplegar modelos a gran escala.
+
+
 
 ---
 # PARTE II
